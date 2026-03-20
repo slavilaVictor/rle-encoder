@@ -22,5 +22,5 @@ RLETwoPointersApproach -> another solution for the RLE Problem
 
 Check RLEBenchmarkTest to see the importance of performance (especially what a small change in the code can do to impact the final result
 
-!!! For unit tests, I wanted to follow CONFORMANCE and Right BICEP principles, but I did not have enough time to deep dive into it
+!!! For unit tests, I have followed CONFORMANCE and Right BICEP principles
       (we can discuss this in details at the interview)

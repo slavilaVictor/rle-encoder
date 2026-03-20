@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14cd9ce2-04d6-41bc-8139-bf3811f07c71" name="Default Changelist" comment="" />
+    <list default="true" id="14cd9ce2-04d6-41bc-8139-bf3811f07c71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEOptimizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEOptimizedTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +23,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="83" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ssc/rle/RLEBasicEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -37,23 +63,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEOptimizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+            <state relative-caret-position="323">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -61,12 +82,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLETwoPointersApproachTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="102">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +102,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,9 +116,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ssc/rle/RLETwoPointersApproach.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBenchmarkTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLETwoPointersApproachTest.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEOptimizedTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ssc/rle/RLETwoPointersApproachTest.java" />
       </list>
     </option>
   </component>
@@ -120,7 +140,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="485" />
-    <option name="y" value="12" />
+    <option name="y" value="11" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
@@ -131,7 +151,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +251,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,6 +259,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -287,6 +308,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RLEBasicEncoderTest.testRLEBasicEncoderSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RLE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssc.rle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ssc.rle" />
+      <option name="MAIN_CLASS_NAME" value="com.ssc.rle.RLEBasicEncoderTest" />
+      <option name="METHOD_NAME" value="testRLEBasicEncoderSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RLEBenchmarkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RLE" />
       <extension name="coverage">
@@ -302,7 +339,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RLEBenchmarkTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RLEOptimizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RLE" />
       <extension name="coverage">
         <pattern>
@@ -311,25 +348,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ssc.rle" />
-      <option name="MAIN_CLASS_NAME" value="com.ssc.rle.RLEBenchmarkTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RLEBenchmarkTest.testBenchmarkBetweenSolutions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RLE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssc.rle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ssc.rle" />
-      <option name="MAIN_CLASS_NAME" value="com.ssc.rle.RLEBenchmarkTest" />
-      <option name="METHOD_NAME" value="testBenchmarkBetweenSolutions" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.ssc.rle.RLEOptimizedTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -369,9 +389,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RLEBenchmarkTest" />
-        <item itemvalue="JUnit.RLEBenchmarkTest.testBenchmarkBetweenSolutions" />
-        <item itemvalue="JUnit.RLEBenchmarkTest.test" />
         <item itemvalue="JUnit.RLETwoPointersApproachTest" />
+        <item itemvalue="JUnit.RLEOptimizedTest" />
+        <item itemvalue="JUnit.RLEBasicEncoderTest.testRLEBasicEncoderSuccess" />
         <item itemvalue="JUnit.RLEBasicEncoderTest" />
       </list>
     </recent_temporary>
@@ -390,21 +410,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RLEBenchmarkTest - 2026.03.19 at 15h 18m 43s.xml">
-      <configuration name="RLEBenchmarkTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RLEBenchmarkTest - 2026.03.19 at 15h 34m 51s.xml">
-      <configuration name="RLEBenchmarkTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RLEBenchmarkTest - 2026.03.19 at 15h 35m 42s.xml">
-      <configuration name="RLEBenchmarkTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RLEBenchmarkTest_test - 2026.03.19 at 15h 36m 43s.xml">
-      <configuration name="RLEBenchmarkTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RLEBenchmarkTest_test - 2026.03.19 at 15h 36m 58s.xml">
-      <configuration name="RLEBenchmarkTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RLEBenchmarkTest - 2026.03.19 at 15h 38m 58s.xml">
       <configuration name="RLEBenchmarkTest" configurationId="JUnit" />
     </history-entry>
@@ -420,12 +425,27 @@
     <history-entry file="RLEBenchmarkTest - 2026.03.19 at 16h 07m 16s.xml">
       <configuration name="RLEBenchmarkTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RLEBasicEncoderTest - 2026.03.20 at 11h 10m 40s.xml">
+      <configuration name="RLEBasicEncoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RLEBasicEncoderTest - 2026.03.20 at 11h 11m 34s.xml">
+      <configuration name="RLEBasicEncoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RLEBasicEncoderTest - 2026.03.20 at 11h 11m 49s.xml">
+      <configuration name="RLEBasicEncoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RLEBasicEncoderTest_testRLEBasicEncoderSuccess - 2026.03.20 at 11h 14m 14s.xml">
+      <configuration name="RLEBasicEncoderTest.testRLEBasicEncoderSuccess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RLEBasicEncoderTest_testRLEBasicEncoderSuccess - 2026.03.20 at 11h 14m 34s.xml">
+      <configuration name="RLEBasicEncoderTest.testRLEBasicEncoderSuccess" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -434,12 +454,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29036826" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28895184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.48866856" />
@@ -463,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssc/rle/RLEBasicEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ssc/rle/RLEOptimized.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -484,14 +497,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLETwoPointersApproachTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="83" />
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssc/rle/RLEBasicEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEBasicEncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -505,30 +551,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLEOptimizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+        <state relative-caret-position="323">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ssc/rle/RLETwoPointersApproachTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
         </state>
       </provider>
     </entry>
